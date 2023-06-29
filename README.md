@@ -22,6 +22,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/RomuloDorochinski/romulodorochinski/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RomuloDorochinski/romulodorochinski/dist/github-contribution-grid-snake.svg)
   
 </div>
