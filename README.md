@@ -1,6 +1,6 @@
 ### Olá, sou Romulo Dorochinski 👋
 
-- Atualmente trabalho como Servidor Público
+- Atualmente trabalho como Servidor Público!
 - Estudando React e Typescript
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_dorochinsk/)
